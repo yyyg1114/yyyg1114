@@ -2,15 +2,15 @@
 
 Primarily focused on web development.
 
-![](https://raw.githubusercontent.com/suchgamer/suchgamer/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/yyyg1114/yyyg1114/output/github-contribution-grid-snake.svg)
 
 <p>
-  <a href="https://github.com/suchgamer">
-    <img height="20" src="https://komarev.com/ghpvc/?username=suchgamer&style=flat-square&color=blueviolet" />
+  <a href="https://github.com/yyyg1114">
+    <img height="20" src="https://komarev.com/ghpvc/?username=yyyg1114&style=flat-square&color=blueviolet" />
   </a>
   &nbsp;
-  <a href="https://github.com/suchgamer">
-    <img height="20" src="https://img.shields.io/github/followers/suchgamer?label=followers&logo=github&style=flat-square" />
+  <a href="https://github.com/yyyg1114">
+    <img height="20" src="https://img.shields.io/github/followers/yyyg1114?label=followers&logo=github&style=flat-square" />
   </a>
 </p>
 
