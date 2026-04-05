@@ -48,4 +48,5 @@ Primarily focused on web development.
 ![Antigravity](https://img.shields.io/badge/-Antigravity-007ACC?style=for-the-badge&logo=Antigravity&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![XAMPP]([https://](https://img.shields.io/badge/-XAMPP-F24E1E?style=for-the-badge&logo=XAMPP&logoColor=white)
+
 ---
